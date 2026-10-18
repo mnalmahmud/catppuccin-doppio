@@ -1,0 +1,31 @@
+{
+  "name": "Doppio",
+  "colors": {
+    "crust": "#0c0a15",
+    "mantle": "#06050c",
+    "base": "#000000",
+    "surface0": "#2c2c3c",
+    "surface1": "#414253",
+    "surface2": "#55576a",
+    "overlay0": "#6a6d81",
+    "overlay1": "#7e8298",
+    "overlay2": "#9398ae",
+    "subtext0": "#9ea4bc",
+    "subtext1": "#b2b9d1",
+    "text": "#c5cee9",
+    "rosewater": "#e2d3d0",
+    "flamingo": "#e1c3c2",
+    "pink": "#e3b6d5",
+    "mauve": "#bf9ded",
+    "red": "#e680a7",
+    "maroon": "#dc95a5",
+    "peach": "#edab7d",
+    "yellow": "#efdcb0",
+    "green": "#96d99a",
+    "teal": "#8bdbcd",
+    "sky": "#70cedf",
+    "sapphire": "#5bb8e1",
+    "blue": "#7babf1",
+    "lavender": "#a2aeee"
+  }
+}
