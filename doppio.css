@@ -1,0 +1,28 @@
+:root {
+  --ctp-doppio-crust: #0c0a15;
+  --ctp-doppio-mantle: #06050c;
+  --ctp-doppio-base: #000000;
+  --ctp-doppio-surface0: #2c2c3c;
+  --ctp-doppio-surface1: #414253;
+  --ctp-doppio-surface2: #55576a;
+  --ctp-doppio-overlay0: #6a6d81;
+  --ctp-doppio-overlay1: #7e8298;
+  --ctp-doppio-overlay2: #9398ae;
+  --ctp-doppio-subtext0: #9ea4bc;
+  --ctp-doppio-subtext1: #b2b9d1;
+  --ctp-doppio-text: #c5cee9;
+  --ctp-doppio-rosewater: #e2d3d0;
+  --ctp-doppio-flamingo: #e1c3c2;
+  --ctp-doppio-pink: #e3b6d5;
+  --ctp-doppio-mauve: #bf9ded;
+  --ctp-doppio-red: #e680a7;
+  --ctp-doppio-maroon: #dc95a5;
+  --ctp-doppio-peach: #edab7d;
+  --ctp-doppio-yellow: #efdcb0;
+  --ctp-doppio-green: #96d99a;
+  --ctp-doppio-teal: #8bdbcd;
+  --ctp-doppio-sky: #70cedf;
+  --ctp-doppio-sapphire: #5bb8e1;
+  --ctp-doppio-blue: #7babf1;
+  --ctp-doppio-lavender: #a2aeee;
+}
